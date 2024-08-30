@@ -1,6 +1,10 @@
 const Sequelize = require('sequelize');
 require('dotenv').config();
 
+if (!process.env.DB_NAME || !process.env.DB_USER || !process.env.DB_PASSWORD) {
+  throw new Error('Missing required environment variables: DB_NAME, DB_USER, or DB_PASSWORD');
+}
+
 const sequelize = new Sequelize(
   process.env.DB_NAME,      // 'ecommerce_db'
   process.env.DB_USER,      // 'postgres'
