@@ -94,7 +94,6 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://docs.insomnia.rest/insomnia/get-started)
     - (https://insomnia.rest/)
     - (https://insomnia.rest/download)
-    - (https://render.com/)
     - (https://docs.insomnia.rest/insomnia/install)
 - jQuery User Interface
     - (https://jqueryui.com/)
@@ -239,6 +238,7 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://www.postgresql.org/docs/current/tutorial-join.html)
     - (https://www.postgresql.org/docs/current/tutorial-start.html)
 - Render
+    - (https://render.com/)
     - (https://docs.render.com/deploys)
 - Sequelize
     - (https://sequelize.org/)
