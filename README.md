@@ -34,6 +34,9 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://day.js.org/)
 - edX
     - (https://www.edx.org/)
+- ESLint
+    - (https://eslint.org/)
+    - (https://eslint.org/docs/latest/use/configure/)
 - Expressjs.com
     - (https://expressjs.com/en/starter/hello-world.html)
     - (https://expressjs.com/en/guide/routing.html#response-methods)
@@ -71,7 +74,7 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://coding-boot-camp.github.io/full-stack/postgresql/postgresql-reference-guide)
     - (https://coding-boot-camp.github.io/full-stack/render/deploy-with-render-and-postgresql)
     - (https://coding-boot-camp.github.io/full-stack/computer-literacy/loopback-issues-with-localhost)
-    - ()
+    - (https://coding-boot-camp.github.io/full-stack/render/deploy-with-render-and-postgresql)
 - GitLab
     - (https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account)
 - Google
@@ -187,6 +190,9 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
     - (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
     - (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+    - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+    - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+    - (https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - Microsoft
     - (https://github.com/microsoft/vscode)
 - Mimo
@@ -200,6 +206,9 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://www.npmjs.com/package/jest?activeTab=code)
     - (https://www.npmjs.com/package/express)
     - (https://www.npmjs.com/package/pg)
+    - (https://www.npmjs.com/package/dotenv)
+    - (https://www.npmjs.com/package/bcrypt)
+    - (https://www.npmjs.com/package/sequelize)
 - Node
     - (https://node.readthedocs.io/en/latest/api/fs/)
 - Nodejs.org
@@ -231,6 +240,15 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://www.postgresql.org/docs/current/tutorial-start.html)
 - Render
     - (https://docs.render.com/deploys)
+- Sequelize
+    - (https://sequelize.org/)
+    - (https://sequelize.org/docs/v6/)
+    - (https://sequelize.org/docs/v6/core-concepts/model-basics/)
+    - (https://sequelize.org/docs/v6/core-concepts/model-basics/#data-types)
+    - (https://sequelize.org/docs/v6/core-concepts/assocs/)
+    - (https://sequelize.org/docs/v6/core-concepts/model-querying-basics/)
+    - (https://sequelize.org/docs/v6/core-concepts/model-basics/#taking-advantage-of-models-being-classes)
+    - (https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
 - Stackoverflow
     - (https://stackoverflow.com/)
 - UT Coding Bootcamp GitLab site
@@ -248,6 +266,7 @@ This project is licensed under the [MIT license](https://opensource.org/license/
     - (https://en.wikipedia.org/wiki/SVG)
     - (https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
     - (https://en.wikipedia.org/wiki/Test-driven_development)
+    - (https://en.wikipedia.org/wiki/REST#Applied_to_web_services)
 
 
 ## Questions
