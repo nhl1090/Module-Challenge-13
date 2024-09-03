@@ -1,7 +1,7 @@
 # E-Commerce Back-End
 
 ## Description
-
+This is a back-end of an internet retail, also known as "e-commerce", site. I took a working Express.js API and configured it to use Sequelize to interact with a PostgreSQL database. See the walkthrough video to see how we are able to create, update, and delete data in the database.
 
 
 ## Table of Contents
@@ -18,7 +18,10 @@
 
 
 ## Usage
+![Screenshot](./images/Screenshot.png)
 
+Video walkthrough is accessible here:
+https://drive.google.com/file/d/1h4P0hGuOy-tYQ5jWP9pfuhHcMltHLWE5/view?usp=drive_link
 
 
 ## License
